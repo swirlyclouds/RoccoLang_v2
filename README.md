@@ -2,6 +2,8 @@
 
 Custom Programming Language with the idea of it being easy to use for my third year PRBX module.
 
+This repository does not include a lot of third pary libraries used to make this interface with the physical m3pi robot I used for organisation reasons. 
+
 ## Design
 This was designed so that an m3pi robot with an mbed NXP LPC1768 would be able to be used by people who aren't very familiar with programming.
 
