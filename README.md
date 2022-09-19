@@ -4,7 +4,7 @@ Custom Programming Language with the idea of it being easy to use for my third y
 
 This repository does not include a lot of third pary libraries used to make this interface with the physical m3pi robot I used for organisation reasons. 
 
-## Design
+## Intention
 This was designed so that an m3pi robot with an mbed NXP LPC1768 would be able to be used by people who aren't very familiar with programming.
 
 Currently, the uploading of a program to this robot is done using the online mbed compiler to convert written C++ code into a binary which is then uploaded to the robot via its USB interface. 
