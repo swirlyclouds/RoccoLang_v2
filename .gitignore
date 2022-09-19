@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs/RoccoLang_v2/v17
+/RoccoLang_v2/x64/Debug
+*.cd
+*.vcxproj
+/RoccoLang_v2/RoccoLang_v2.vcxproj.filters
+/RoccoLang_v2/RoccoLang_v2.vcxproj.user
+/x64/Debug
+/RoccoLang_v2.sln
